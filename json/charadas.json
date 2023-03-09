@@ -1,0 +1,939 @@
+[{
+    "numero": 1,
+    "simbolos": [
+        "El caballo",
+        "sol",
+        "tintero",
+        "camello",
+        "pescado chico"
+    ]
+},
+{
+    "numero": 2,
+    "simbolos": [
+        "La mariposa",
+        "hombre",
+        "cafetera",
+        "caracol"
+    ]
+},
+{
+    "numero": 3,
+    "simbolos": [
+        "El marinero",
+        "luna",
+        "taza",
+        "ciempi\u00e9s",
+        "muerto"
+    ]
+},
+{
+    "numero": 4,
+    "simbolos": [
+        "El gato",
+        "boca",
+        "soldado",
+        "llave",
+        "vela",
+        "militar"
+    ]
+},
+{
+    "numero": 5,
+    "simbolos": [
+        "La monja",
+        "mar",
+        "candado",
+        "peri\u00f3dico",
+        "fruta",
+        "lombriz"
+    ]
+},
+{
+    "numero": 6,
+    "simbolos": [
+        "La jicotea",
+        "carta",
+        "reverbero",
+        "botella"
+    ]
+},
+{
+    "numero": 7,
+    "simbolos": [
+        "El caracol",
+        "sue\u00f1o",
+        "mierda",
+        "medias",
+        "caballero"
+    ]
+},
+{
+    "numero": 8,
+    "simbolos": [
+        "El muerto",
+        "le\u00f3n",
+        "calabaza",
+        "mesa"
+    ]
+},
+{
+    "numero": 9,
+    "simbolos": [
+        "El elefante",
+        "entierro",
+        "lira",
+        "cubo",
+        "esqueleto",
+        "buey"
+    ]
+},
+{
+    "numero": 10,
+    "simbolos": [
+        "El pescado grande",
+        "paseo",
+        "malla",
+        "cazuela",
+        "dinero",
+        "lancha"
+    ]
+},
+{
+    "numero": 11,
+    "simbolos": [
+        "El gallo",
+        "lluvia",
+        "f\u00f3sforo",
+        "taller",
+        "f\u00e1brica"
+    ]
+},
+{
+    "numero": 12,
+    "simbolos": [
+        "La mujer mala",
+        "viaje",
+        "toallas",
+        "cometa",
+        "perro grande"
+    ]
+},
+{
+    "numero": 13,
+    "simbolos": [
+        "El pavo real",
+        "ni\u00f1o",
+        "anafe",
+        "chulo"
+    ]
+},
+{
+    "numero": 14,
+    "simbolos": [
+        "El gato tigre",
+        "matrimonio",
+        "sart\u00e9n y cementerio"
+    ]
+},
+{
+    "numero": 15,
+    "simbolos": [
+        "El perro",
+        "visita",
+        "cuchara"
+    ]
+},
+{
+    "numero": 16,
+    "simbolos": [
+        "El toro",
+        "plancha",
+        "vestido",
+        "incendio",
+        "funerales",
+        "avispa"
+    ]
+},
+{
+    "numero": 17,
+    "simbolos": [
+        "La luna",
+        "mujer buena",
+        "hule",
+        "camis\u00f3n",
+        "armas",
+        "opio"
+    ]
+},
+{
+    "numero": 18,
+    "simbolos": [
+        "El pescado chiquito",
+        "la iglesia",
+        "sirena",
+        "palma",
+        "gato amarillo"
+    ]
+},
+{
+    "numero": 19,
+    "simbolos": [
+        "La lombriz",
+        "campesino",
+        "tropa",
+        "mesa grande",
+        "armadura"
+    ]
+},
+{
+    "numero": 20,
+    "simbolos": [
+        "El gato fino",
+        "ca\u00f1\u00f3n",
+        "camiseta",
+        "tibor",
+        "libro",
+        "mujer"
+    ]
+},
+{
+    "numero": 21,
+    "simbolos": [
+        "El maj\u00e1",
+        "reloj de bolsillo",
+        "cotorra"
+    ]
+},
+{
+    "numero": 22,
+    "simbolos": [
+        "El sapo",
+        "estrella",
+        "chimenea"
+    ]
+},
+{
+    "numero": 23,
+    "simbolos": [
+        "El vapor",
+        "submarino",
+        "escalera",
+        "barco",
+        "\u00e1guila"
+    ]
+},
+{
+    "numero": 24,
+    "simbolos": [
+        "La paloma",
+        "m\u00fasica",
+        "carpintero",
+        "cocina"
+    ]
+},
+{
+    "numero": 25,
+    "simbolos": [
+        "La piedra fina",
+        "casa",
+        "sol"
+    ]
+},
+{
+    "numero": 26,
+    "simbolos": [
+        "La anguila",
+        "calle",
+        "m\u00e9dico"
+    ]
+},
+{
+    "numero": 27,
+    "simbolos": [
+        "La avispa",
+        "campana",
+        "cuchara grande",
+        "canario"
+    ]
+},
+{
+    "numero": 28,
+    "simbolos": [
+        "El chivo",
+        "bandera",
+        "pol\u00edtico",
+        "uvas",
+        "perro chico"
+    ]
+},
+{
+    "numero": 29,
+    "simbolos": [
+        "El rat\u00f3n",
+        "nube",
+        "venado"
+    ]
+},
+{
+    "numero": 30,
+    "simbolos": [
+        "El camar\u00f3n",
+        "arco iris",
+        "almanaque",
+        "buey",
+        "cangrejo"
+    ]
+},
+{
+    "numero": 31,
+    "simbolos": [
+        "El venado",
+        "escuela",
+        "zapatos"
+    ]
+},
+{
+    "numero": 32,
+    "simbolos": [
+        "El cochino",
+        "enemigo",
+        "mulo",
+        "demonio"
+    ]
+},
+{
+    "numero": 33,
+    "simbolos": [
+        "La ti\u00f1osa",
+        "baraja",
+        "santa",
+        "Jesucristo",
+        "bofet\u00f3n"
+    ]
+},
+{
+    "numero": 34,
+    "simbolos": [
+        "El mono",
+        "familia",
+        "negro",
+        "capataz"
+    ]
+},
+{
+    "numero": 35,
+    "simbolos": [
+        "La ara\u00f1a",
+        "novia",
+        "bombillos",
+        "mosquito"
+    ]
+},
+{
+    "numero": 36,
+    "simbolos": [
+        "La cachimba",
+        "teatro",
+        "bodega",
+        "coloso"
+    ]
+},
+{
+    "numero": 37,
+    "simbolos": [
+        "La gallina prieta",
+        "gitana",
+        "hormiga",
+        "carretera"
+    ]
+},
+{
+    "numero": 38,
+    "simbolos": [
+        "El dinero",
+        "carro",
+        "goleta",
+        "guantes",
+        "barril"
+    ]
+},
+{
+    "numero": 39,
+    "simbolos": [
+        "El conejo",
+        "culebra",
+        "rayo",
+        "baile",
+        "tintorero"
+    ]
+},
+{
+    "numero": 40,
+    "simbolos": [
+        "El cura",
+        "sangre",
+        "bombero",
+        "cantina",
+        "estatua"
+    ]
+},
+{
+    "numero": 41,
+    "simbolos": [
+        "La lagartija",
+        "prisi\u00f3n",
+        "pato chico",
+        "jubo",
+        "capuchino"
+    ]
+},
+{
+    "numero": 42,
+    "simbolos": [
+        "El pato",
+        "pa\u00eds lejano",
+        "carnero",
+        "abismo"
+    ]
+},
+{
+    "numero": 43,
+    "simbolos": [
+        "El alacr\u00e1n",
+        "amigo",
+        "vaca",
+        "puerta",
+        "presidiario y jorobado"
+    ]
+},
+{
+    "numero": 44,
+    "simbolos": [
+        "A\u00f1o del cuero",
+        "infierno",
+        "a\u00f1o malo",
+        "temporal",
+        "tormenta"
+    ]
+},
+{
+    "numero": 45,
+    "simbolos": [
+        "El tibur\u00f3n",
+        "presidente",
+        "traje",
+        "tranv\u00eda",
+        "estrella"
+    ]
+},
+{
+    "numero": 46,
+    "simbolos": [
+        "La guagua",
+        "humo",
+        "hambre",
+        "hur\u00f3n",
+        "baile",
+        "chino"
+    ]
+},
+{
+    "numero": 47,
+    "simbolos": [
+        "El p\u00e1jaro",
+        "mala noticia",
+        "mucha sangre",
+        "escolta",
+        "rosa"
+    ]
+},
+{
+    "numero": 48,
+    "simbolos": [
+        "La cucaracha",
+        "abanico",
+        "barber\u00eda",
+        "cubo"
+    ]
+},
+{
+    "numero": 49,
+    "simbolos": [
+        "El borracho",
+        "riqueza",
+        "figur\u00edn",
+        "percha",
+        "tesoro",
+        "fantasma"
+    ]
+},
+{
+    "numero": 50,
+    "simbolos": [
+        "El polic\u00eda",
+        "alegr\u00eda",
+        "florero",
+        "alcalde",
+        "p\u00edcaro",
+        "\u00e1rbol"
+    ]
+},
+{
+    "numero": 51,
+    "simbolos": [
+        "El soldado",
+        "sereno",
+        "anteojos",
+        "sed",
+        "oro",
+        "presillas"
+    ]
+},
+{
+    "numero": 52,
+    "simbolos": [
+        "La bicicleta",
+        "coche",
+        "abogado",
+        "libreta"
+    ]
+},
+{
+    "numero": 53,
+    "simbolos": [
+        "La luz el\u00e9ctrica",
+        "prenda",
+        "tragedia",
+        "diamante",
+        "beso",
+        "alguacil"
+    ]
+},
+{
+    "numero": 54,
+    "simbolos": [
+        "Flores",
+        "gallina blanca",
+        "sue\u00f1o",
+        "timbre",
+        "ca\u00f1\u00f3n"
+    ]
+},
+{
+    "numero": 55,
+    "simbolos": [
+        "El cangrejo",
+        "los Isle\u00f1os",
+        "caerse",
+        "sellos"
+    ]
+},
+{
+    "numero": 56,
+    "simbolos": [
+        "La reina",
+        "merengue",
+        "piedra"
+    ]
+},
+{
+    "numero": 57,
+    "simbolos": [
+        "La cama",
+        "\u00e1ngeles",
+        "telegrama",
+        "puerta"
+    ]
+},
+{
+    "numero": 58,
+    "simbolos": [
+        "Un adulterio",
+        "retrato",
+        "cuchillo",
+        "ferretero"
+    ]
+},
+{
+    "numero": 59,
+    "simbolos": [
+        "El loco",
+        "langosta",
+        "anillo"
+    ]
+},
+{
+    "numero": 60,
+    "simbolos": [
+        "Sol Oscuro",
+        "payaso",
+        "c\u00f3smico"
+    ]
+},
+{
+    "numero": 61,
+    "simbolos": [
+        "El ca\u00f1onazo",
+        "revolver",
+        "boticario"
+    ]
+},
+{
+    "numero": 62,
+    "simbolos": [
+        "El matrimonio",
+        "nieve",
+        "l\u00e1mpara",
+        "visi\u00f3n",
+        "academia",
+        "carretilla"
+    ]
+},
+{
+    "numero": 63,
+    "simbolos": [
+        "El asesino",
+        "cuernos",
+        "espada",
+        "bandidos"
+    ]
+},
+{
+    "numero": 64,
+    "simbolos": [
+        "Un muerto grande",
+        "tiro de rifle",
+        "maromero",
+        "relajo"
+    ]
+},
+{
+    "numero": 65,
+    "simbolos": [
+        "La c\u00e1rcel",
+        "comida",
+        "bruja",
+        "ventana",
+        "trueno"
+    ]
+},
+{
+    "numero": 66,
+    "simbolos": [
+        "El divorcio",
+        "los tarros",
+        "la m\u00e1scara",
+        "el carnaval"
+    ]
+},
+{
+    "numero": 67,
+    "simbolos": [
+        "La pu\u00f1alada",
+        "autoridad",
+        "fonda",
+        "aborto",
+        "zapato"
+    ]
+},
+{
+    "numero": 68,
+    "simbolos": [
+        "Cementerio Grande",
+        "globo",
+        "cuchillo grande",
+        "templo",
+        "bolos"
+    ]
+},
+{
+    "numero": 69,
+    "simbolos": [
+        "El pozo",
+        "fiera",
+        "la loma",
+        "vagos",
+        "polvor\u00edn"
+    ]
+},
+{
+    "numero": 70,
+    "simbolos": [
+        "El tel\u00e9fono",
+        "coco",
+        "tiro",
+        "barril",
+        "bala"
+    ]
+},
+{
+    "numero": 71,
+    "simbolos": [
+        "R\u00edo",
+        "sombrero",
+        "perro mediano",
+        "pantera y fusil"
+    ]
+},
+{
+    "numero": 72,
+    "simbolos": [
+        "El ferrocarril",
+        "buey viejo",
+        "serrucho",
+        "collar",
+        "cetro",
+        "rel\u00e1mpago"
+    ]
+},
+{
+    "numero": 73,
+    "simbolos": [
+        "Un parque",
+        "navaja",
+        "manzanas",
+        "maleta",
+        "ajedrez",
+        "cigarrillo"
+    ]
+},
+{
+    "numero": 74,
+    "simbolos": [
+        "El papalote",
+        "coronel",
+        "serpiente",
+        "c\u00f3lera",
+        "tarima"
+    ]
+},
+{
+    "numero": 75,
+    "simbolos": [
+        "El cine",
+        "corbata",
+        "viento",
+        "guitarra"
+    ]
+},
+{
+    "numero": 76,
+    "simbolos": [
+        "La bailarina",
+        "el humo en cantidad",
+        "la caja de hierro",
+        "viol\u00edn"
+    ]
+},
+{
+    "numero": 77,
+    "simbolos": [
+        "Banderas",
+        "guerra",
+        "colegio",
+        "billetes de banco",
+        "\u00e1nfora"
+    ]
+},
+{
+    "numero": 78,
+    "simbolos": [
+        "El obispo",
+        "sarc\u00f3fago",
+        "rey",
+        "apetito",
+        "lunares"
+    ]
+},
+{
+    "numero": 79,
+    "simbolos": [
+        "Coche de tren",
+        "dulces"
+    ]
+},
+{
+    "numero": 80,
+    "simbolos": [
+        "El m\u00e9dico",
+        "la buena noticia",
+        "la luna llena",
+        "paraguas",
+        "barba",
+        "trompo"
+    ]
+},
+{
+    "numero": 81,
+    "simbolos": [
+        "El teatro",
+        "ingeniero",
+        "cuerda",
+        "actriz"
+    ]
+},
+{
+    "numero": 82,
+    "simbolos": [
+        "La madre",
+        "la batea",
+        "pleito",
+        "muelle"
+    ]
+},
+{
+    "numero": 83,
+    "simbolos": [
+        "La tragedia",
+        "la procesi\u00f3n",
+        "el limosnero",
+        "el bast\u00f3n",
+        "la madera"
+    ]
+},
+{
+    "numero": 84,
+    "simbolos": [
+        "El ciego",
+        "sastre",
+        "boh\u00edo",
+        "banquero",
+        "cofre",
+        "la marcha atr\u00e1s"
+    ]
+},
+{
+    "numero": 85,
+    "simbolos": [
+        "El reloj",
+        "espejo",
+        "guano"
+    ]
+},
+{
+    "numero": 86,
+    "simbolos": [
+        "El convento",
+        "tijera",
+        "desnudar",
+        "manguera"
+    ]
+},
+{
+    "numero": 87,
+    "simbolos": [
+        "El ba\u00fal",
+        "fuego",
+        "pl\u00e1tanos"
+    ]
+},
+{
+    "numero": 88,
+    "simbolos": [
+        "Los espejuelos",
+        "gusano",
+        "vaso",
+        "hojas"
+    ]
+},
+{
+    "numero": 89,
+    "simbolos": [
+        "La loter\u00eda",
+        "agua",
+        "la monja vieja",
+        "mel\u00f3n"
+    ]
+},
+{
+    "numero": 90,
+    "simbolos": [
+        "El viejo",
+        "el espejo grande",
+        "el caramelo"
+    ]
+},
+{
+    "numero": 91,
+    "simbolos": [
+        "El tranv\u00eda",
+        "p\u00e1jaro negro",
+        "bolchevique"
+    ]
+},
+{
+    "numero": 92,
+    "simbolos": [
+        "Globo muy alto",
+        "suicidio",
+        "Cuba"
+    ]
+},
+{
+    "numero": 93,
+    "simbolos": [
+        "Revoluci\u00f3n",
+        "sortija",
+        "general",
+        "joyas",
+        "libertad"
+    ]
+},
+{
+    "numero": 94,
+    "simbolos": [
+        "El machete",
+        "la mariposa grande",
+        "leontina"
+    ]
+},
+{
+    "numero": 95,
+    "simbolos": [
+        "La guerra",
+        "alacr\u00e1n"
+    ]
+},
+{
+    "numero": 96,
+    "simbolos": [
+        "El desaf\u00edo",
+        "peri\u00f3dico",
+        "p\u00edcaro",
+        "zapatos nuevos"
+    ]
+},
+{
+    "numero": 97,
+    "simbolos": [
+        "El mosquito",
+        "mono grande",
+        "sinsonte",
+        "grillo grande"
+    ]
+},
+{
+    "numero": 98,
+    "simbolos": [
+        "El piano",
+        "entierro grande",
+        "santo"
+    ]
+},
+{
+    "numero": 99,
+    "simbolos": [
+        "El serrucho",
+        "carbonero",
+        "lluvia"
+    ]
+},
+{
+    "numero": 100,
+    "simbolos": [
+        "El autom\u00f3vil",
+        "Dios",
+        "el inodoro"
+    ]
+}]
