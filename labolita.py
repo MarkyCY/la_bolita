@@ -5,6 +5,8 @@ from telebot.types import ReplyKeyboardMarkup
 from telebot.types import ForceReply
 from telebot.types import ReplyKeyboardRemove
 from pymongo import MongoClient
+from dotenv import load_dotenv
+import os
 import telebot
 import json
 import pytz
@@ -13,8 +15,14 @@ import threading
 import requests
 import charada2 as charada_srch
 
+# Cargando las variables de entorno desde el archivo .env
+load_dotenv()
+
+# Accediendo a la variable global
+telebot_token = os.getenv('TELEBOT')
+
 # Inicialización del bot de Telegram
-bot = telebot.TeleBot("5967012336:AAEdgSRPNLjZDQaIEUVTk8dtDU2lgOlsSa8")
+bot = telebot.TeleBot(telebot_token)
 
 # Almacenar la hora actual y convertirla a formato militar (sin AM/PM)
 now = datetime.now()
