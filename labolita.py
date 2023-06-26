@@ -18,7 +18,11 @@ import charada2 as charada_srch
 # Cargando las variables de entorno desde el archivo .env
 load_dotenv()
 
-# Accediendo a la variable global
+# Obtener los valores de las variables de entorno
+mongo_host = os.environ.get('MONGOHOST')
+mongo_password = os.environ.get('MONGOPASSWORD')
+mongo_port = os.environ.get('MONGOPORT')
+mongo_url = os.environ.get('MONGO_URL')
 telebot_token = os.getenv('TELEBOT')
 
 # Inicialización del bot de Telegram
@@ -32,8 +36,8 @@ military_time = int(now.strftime("%H"))
 usuarios = {}
 game = {}
 
-# Conectarse a la base de datos MongoDB y crear las colecciones "users" y "juegos"
-client = MongoClient('mongodb://mongo:25A9gPmVO2cBCrJhmOoa@containers-us-west-87.railway.app:6991/bolita')
+# Crear la conexión con la base de datos
+client = MongoClient(mongo_url.format(mongo_password, mongo_host, mongo_port))
 db = client.bolita
 users = db.users
 juegos = db.juegos
