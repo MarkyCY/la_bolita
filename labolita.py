@@ -33,7 +33,7 @@ usuarios = {}
 game = {}
 
 # Conectarse a la base de datos MongoDB y crear las colecciones "users" y "juegos"
-client = MongoClient('localhost', 27017)
+client = MongoClient('mongodb://mongo:25A9gPmVO2cBCrJhmOoa@containers-us-west-87.railway.app:6991/bolita')
 db = client.bolita
 users = db.users
 juegos = db.juegos
