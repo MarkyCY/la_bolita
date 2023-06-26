@@ -3,5 +3,4 @@ requests
 pymongo
 pytz
 apscheduler
-re
 python-dotenv
